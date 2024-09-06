@@ -1,0 +1,36 @@
+_repo: The-Aldine-Speller-Part-Two-b-for-Grades-Three-and-Four_74345
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bryce, Catherine T. (Catherine Turner)
+    aliases:
+    - Bryce, C. T. (Catherine Turner)
+    - Bryce, Catherine Turner
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '53290'
+    url: http://www.gutenberg.org/2009/agents/53290
+  - agent_name: Sherman, Frank J.
+    gutenberg_agent_id: '53348'
+    url: http://www.gutenberg.org/2009/agents/53348
+description: ''
+gutenberg_issued: '2024-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74345'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044081497810&view=1up&seq=5
+pgterms:marc905: 20200710140552bryce
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Carla Foust, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bNewson & Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Aldine Speller: Part Two : $b for Grades Three and Four'
+url: http://www.gutenberg.org/ebooks/74345
