@@ -1,5 +1,8 @@
 _repo: The-Aldine-Speller-Part-Two-b-for-Grades-Three-and-Four_74345
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74345-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bryce, Catherine T. (Catherine Turner)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '53348'
     url: http://www.gutenberg.org/2009/agents/53348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74345#The-Aldine-Speller-Part-Two-b-for-Grades-Three-and-Four
 gutenberg_issued: '2024-09-01'
 gutenberg_type: Text
 identifiers:
